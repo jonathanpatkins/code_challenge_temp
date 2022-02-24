@@ -411,7 +411,7 @@ def max_tastiness(ice_creams):
 
 ## Lol Don’t Drown
 
-Due to too many annoying children and uneducated adults at waterparks, all the current lifeguards have quit. The owner, trying to save more money and not caring about lives of children, has employed numbers of impoverished high schoolers as lifeguards. There exists a list of underpaid potential lifeguards, and the times they can be on duty, represented as a tuple (start_minute, end_minute). If we hire a lifeguard, we need to pay them $1/minute for the lifeguard's whole interval (no partial hires). What is the least amount of money we can spend to cover the interval (0, 1440)?
+Due to too many reckless children and inattentive adults at waterparks, all the current lifeguards have quit. The owner has a list of underpaid potential lifeguards, and the times they can be on duty, represented as a tuple (start_minute, end_minute). If we hire a lifeguard, we need to pay them $1/minute for the lifeguard's whole interval (no partial hires). What is the least amount of money we can spend to cover the interval (0, 1440)?
 
 Note: all intervals include start but exclude end. For example, (0,5) means 0,1,2,3,4.  
 
